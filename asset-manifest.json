@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/favorit-kras-frontend/static/css/main.8867ffcd.css",
-    "main.js": "/favorit-kras-frontend/static/js/main.b9186711.js",
+    "main.css": "/favorit-kras-frontend/static/css/main.bdb7bcfd.css",
+    "main.js": "/favorit-kras-frontend/static/js/main.33c90467.js",
     "static/media/catalog-fireworks.png": "/favorit-kras-frontend/static/media/catalog-fireworks.a97cc7c9b5bacb97b5ed.png",
     "static/media/Montserrat-BlackItalic.eot": "/favorit-kras-frontend/static/media/Montserrat-BlackItalic.e885010b57eaa0bc6e3e.eot",
     "static/media/Montserrat-BlackItalic.ttf": "/favorit-kras-frontend/static/media/Montserrat-BlackItalic.723da89da4f4081f6607.ttf",
@@ -77,11 +77,11 @@
     "static/media/close-icon-mob.svg": "/favorit-kras-frontend/static/media/close-icon-mob.ddf8f53b592ba1c44b7c.svg",
     "static/media/menu-icon.svg": "/favorit-kras-frontend/static/media/menu-icon.29365541573430d70e3b.svg",
     "static/media/close-icon.svg": "/favorit-kras-frontend/static/media/close-icon.5715024ffba9c98f0162.svg",
-    "main.8867ffcd.css.map": "/favorit-kras-frontend/static/css/main.8867ffcd.css.map",
-    "main.b9186711.js.map": "/favorit-kras-frontend/static/js/main.b9186711.js.map"
+    "main.bdb7bcfd.css.map": "/favorit-kras-frontend/static/css/main.bdb7bcfd.css.map",
+    "main.33c90467.js.map": "/favorit-kras-frontend/static/js/main.33c90467.js.map"
   },
   "entrypoints": [
-    "static/css/main.8867ffcd.css",
-    "static/js/main.b9186711.js"
+    "static/css/main.bdb7bcfd.css",
+    "static/js/main.33c90467.js"
   ]
 }
